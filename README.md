@@ -1,6 +1,6 @@
 # RNA-seq and ChIP-seq analysis of K562 and MCF7 cell lines
 
-Graduate bioinformatics project: compare gene expression (RNA-seq) and POLR2A binding (ChIP-seq) in two cancer cell lines, K562 (chronic myelogenous leukemia) and MCF7 (breast cancer), using public ENCODE data aligned to hg19.
+Graduate bioinformatics project, Rowan University, 2024”: compare gene expression (RNA-seq) and POLR2A binding (ChIP-seq) in two cancer cell lines, K562 (chronic myelogenous leukemia) and MCF7 (breast cancer), using public ENCODE data aligned to hg19.
 
 ## What was done
 
